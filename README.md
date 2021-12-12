@@ -7,7 +7,7 @@ Aspiring junior developer, general interest in all things technology (mostly CS 
 
 
 My main ambitions in life are self improvement and making life more easier for people with the help of technology
-=======
+
 # About me
 ---
 
