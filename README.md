@@ -9,12 +9,12 @@ My main ambitions in life are self improvement and making life more easier for p
 
 ## Skills
 ---
-<img src="SVG/git.svg" alt="drawing" width="100"/>
-<img src="SVG/css.svg" alt="drawing" width="100"/>
-<img src="SVG/markup.svg" alt="drawing" width="100"/>
-<img src="SVG/react_js.svg" alt="drawing" width="100"/>
-<img src="SVG/python.svg" alt="drawing" width="100"/>
-<img src="SVG/ruby_on_rails.svg" alt="drawing" width="100"/>
+<img align="left" src="SVG/git.svg" alt="drawing" width="100"/>
+<img align="left" src="SVG/css.svg" alt="drawing" width="100"/>
+<img align="left" src="SVG/markup.svg" alt="drawing" width="100"/>
+<img align="left" src="SVG/react_js.svg" alt="drawing" width="100"/>
+<img align="left" src="SVG/python.svg" alt="drawing" width="100"/>
+<img align="left" src="SVG/ruby_on_rails.svg" alt="drawing" width="100"/>
 
 ## Latest project's for clients
 ---
