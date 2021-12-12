@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# About me
 Aspiring junior developer, general interest in all things technology (mostly CS related) related but my main interests are:
 
   - Operating systems (especially Linux scripts)
@@ -32,4 +32,3 @@ My main ambitions in life are self improvement and making life more easier for p
 ## Latest project's for clients
 ---
 ## https://tesla-najem.vercel.app/
->>>>>>> 6fdf852 (Second update to my about me)
